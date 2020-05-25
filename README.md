@@ -1,4 +1,4 @@
-# Introduction to Machine Learning Nanodegree
+# Introduction to Machine Learning
 
 ## Supervised Learning
 ## Finding-Donors-For-Charity-ML
